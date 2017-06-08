@@ -7,4 +7,4 @@
 
 文章連結
 -----------------
-* [Lawrence's Blog](https://github.com/lawrence8358/Blog-Sample-CSharp-Registry) 
+* [Lawrence's Blog](https://lawrencetech.blogspot.tw/2008/10/windows_18.html) 
